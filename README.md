@@ -185,3 +185,4 @@ npm run start        # Jalankan build produksi
 npm run lint         # ESLint
 npm run db:*         # Perintah database (lihat tabel di atas)
 ```
+Project by : Muhammad Yusron Al Ghoni Rizqullah
